@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 <h3 align="center">A passionate and hard working developer from Brazil</h3>
 
-- 🔭 I’m currently working on [TicketMaster Java study app](https://github.com/ViniciusNunes01/ticket-master-system)
+- 🔭 I’m currently working on some projects that will appear as pinned repositories!
 
 - 🌱 I’m currently learning **Java, React, Typescript**
 
