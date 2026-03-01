@@ -53,13 +53,6 @@ Repository: https://github.com/ViniciusNunes01/ticket-master-system
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusNunes01&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViniciusNunes01&theme=tokyonight" />
 </p>
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusNunes01&theme=tokyonight" />
-</p>
-
 ---
 
 ## Contact
