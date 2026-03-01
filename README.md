@@ -1,4 +1,4 @@
-<h1 align="center">Vinicius Nunes</h1>
+<h1 align="center">Vinicius Martins Nunes</h1>
 <h3 align="center">Full Stack Developer | Java • React • TypeScript</h3>
 
 <p align="center">
