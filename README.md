@@ -1,53 +1,68 @@
-<h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">🚀 Passionate and Hard Working Developer from Brazil</h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on new projects (coming soon 👀)
-- 🌱 Learning **Java, React and Typescript**
-- 🎮 Fun fact: I love video games!
-- 📫 Reach me at: **viniciusn@alunos.utfpr.edu.br**
-
----
-
-## 🌎 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/vinicius-nunes-322583216" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🚀 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,react,typescript,flutter,dart,docker,postgres,linux,git,spring,html,css" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Vinicius Nunes</h1>
+<h3 align="center">Full Stack Developer | Java • React • TypeScript</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ViniciusNunes01&show_icons=true&theme=tokyonight" />
+  Developer focused on building clean, scalable applications and continuously improving technical skills.
 </p>
 
 ---
 
-## 🥧 Most Used Languages
+## About Me
+
+I'm a developer with a strong interest in backend architecture and full stack applications.  
+I enjoy turning ideas into structured systems and writing code that is maintainable and efficient.
+
+Currently improving my knowledge in:
+
+- Java and Spring Boot  
+- React and TypeScript  
+- REST API design and integration  
+
+---
+
+## Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusNunes01&layout=pie&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,typescript,postgres,docker,git,linux" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## Featured Projects
+
+**Game Tracker**  
+Personal application created to manage and organize a real-life video game collection.  
+Designed with focus on clean structure and long-term maintainability.  
+Repository: https://github.com/ViniciusNunes01/game_tracker
+
+**Sales Management System (Full Stack)**  
+Web application for sales management developed with Java (Spring Boot) and React.  
+Includes REST APIs, frontend integration and database persistence, demonstrating full stack development capabilities.  
+Repository: https://github.com/ViniciusNunes01/vendas_react_java
+
+**Ticket Master System (Backend)**  
+Backend system for event ticket management built with Java and Spring Boot.  
+Focused on RESTful architecture, business logic organization and scalable API design.  
+Repository: https://github.com/ViniciusNunes01/ticket-master-system
+
+---
+
+## Most Used Languages
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ViniciusNunes01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusNunes01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViniciusNunes01&theme=tokyonight" />
 </p>
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusNunes01&theme=tokyonight" />
+</p>
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/vinicius-nunes-322583216  
+Email: viniciusn@alunos.utfpr.edu.br
